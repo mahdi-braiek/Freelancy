@@ -1,13 +1,13 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import Navbar from '../../components/Navbar';
+import PublicNavbar from '../../components/PublicNavbar';
 import Footer from '../../components/Footer';
 import './Landing.css';
 
 const Landing = () => {
     return (
         <div className="landing-page">
-            <Navbar />
+            <PublicNavbar />
             <main className="hero-section">
                 <div className="hero-content">
                     <div className="hero-badge">
