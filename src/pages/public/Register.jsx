@@ -5,7 +5,7 @@ const Register = () => {
     return (
         <div className="auth-container">
             <div className="auth-card card">
-                <h2 className="auth-title">Rejoindre Freelencely</h2>
+                <h2 className="auth-title">Rejoindre Freelancy</h2>
                 <form className="auth-form">
                     <div className="form-group">
                         <label className="form-label">Nom complet</label>
